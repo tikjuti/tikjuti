@@ -33,3 +33,4 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tikjuti&icon=0&color=0)](https://visitcount.itsvg.in)
+https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing
