@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning at Sai Gon University
 - 📫 How to reach me: [Facebook](https://www.facebook.com/tikjuti.3723)
+- 😄 Pronouns: Ba lùn 
 - ⚡ Fun fact: Happy!
 <!--
 **tikjuti/tikjuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🎧Spotify Playing
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 [![Spotify](https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing)](https://open.spotify.com/collection/tracks)
 ## 🌐Socials
