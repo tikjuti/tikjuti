@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning at Sai Gon University
+- 📫 How to reach me: [Facebook](https://www.facebook.com/tikjuti.3723)
+- ⚡ Fun fact: Happy!
 <!--
 **tikjuti/tikjuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
