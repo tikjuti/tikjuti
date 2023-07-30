@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 
 ---
 
-![Spotify](http://img.shields.io/badge/Profile%20Views-76-blue)
+
 
