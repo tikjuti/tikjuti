@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 
 ---
 
-### 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=tikjuti&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+//### 🏆GitHub Trophies
+//![](https://github-trophies.vercel.app/?username=tikjuti&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
